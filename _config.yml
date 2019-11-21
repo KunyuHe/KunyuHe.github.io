@@ -1,1 +1,4 @@
 theme: jekyll-theme-architect
+permalink: /:categories/:title/
+title: My Awesome Site's Title
+description: Description of my website
