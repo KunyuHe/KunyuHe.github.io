@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# Hi, this is Kunyu He!
 
-You can use the [editor on GitHub](https://github.com/KunyuHe/KunyuHe.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+An aspiring quantitative researcher, and a machine learning enthusiast.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Who is Kunyu?
 
-### Markdown
+I'm currently a second-year master's student in Computational Analysis at The University of Chicago. Prior to my graduate study, I was an undergraduate student in Economics at Nanjing University.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+With my interdisciplinary educational background, I'm passionate about a quantitative career at investment banks, proprietary trading firms, or hedge funds.
 
-```markdown
-Syntax highlighted code block
+I have three years of experience programming with Python and R. I'm proficient in SQL, and I know C++ and Spark. I also have direct experience with AWS and Google Cloud Platform.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KunyuHe/KunyuHe.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Learn more about my recent works and projets in machine learning and time series analysis!
