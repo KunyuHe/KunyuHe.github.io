@@ -5,12 +5,12 @@ subtitle:   "Understand how SVD derives a consistent expression for least-square
 date:       2019-12-31
 author:     "Kunyu He"
 header-img: "img/post-bg-svdund.jpg"
-catalog: true
-mathjax: true
+catalog:    true
+mathjax:    true
 tags:
     - Machine Learning
     - Statistics
-    - Towards Data Science
+    - Python Applied
 ---
 
 This blog discusses the difference in least-squares weight vectors across over- and underdetermined linear systems, and how [**singular value decomposition**](https://www.wikiwand.com/en/Singular_value_decomposition) (SVD) can be applied to derive a consistent expression. It is heavily based on Professor [Rebecca Willet](https://voices.uchicago.edu/willett/)’s course [Mathematical Foundations of Machine Learning](https://voices.uchicago.edu/willett/teaching/fall-2019-mathematical-foundations-of-machine-learning/) and it assumes basic knowledge of linear algebra.
