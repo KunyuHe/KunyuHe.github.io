@@ -1,5 +1,5 @@
 # Site settings
-title: Kunyu He
+title: Kunyu's Blog
 SEOTitle: Kunyu He
 header-img: img/home-bg.jpg
 email: kunyu.he.ds@gmail.com
@@ -16,9 +16,10 @@ RSS: false
 #weibo_username:     huxpro
 zhihu_username:      kunyuhe
 github_username:     kunyuhe
-twitter_username:    kunyu_he
+#twitter_username:   kunyu_he
 #facebook_username:  huxpro
 linkedin_username:   kunyuhe
+medium_username:     kunyuhe
 
 
 
@@ -78,7 +79,7 @@ kramdown:
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Risk is what you make of it<br/>秋色无南北，人心自深浅"
+sidebar-about-description: "Happiness is the moment before you need more happiness.<br/>秋色无南北，人心自深浅"
 sidebar-avatar: /img/avatar-home.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
