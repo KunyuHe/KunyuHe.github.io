@@ -8,8 +8,8 @@ header-img: "img/post-bg-svdund.jpg"
 catalog:    true
 mathjax:    true
 tags:
-    - Machine Learning
-    - Statistics
+    - Machine Learning Explained
+    - Least Squares
     - Python Applied
 ---
 
@@ -92,3 +92,5 @@ Corresponding codes is available below.
 ---
 
 >  This blog was originally published on [@Medium](https://medium.com/) with [@Towards Data Science](https://towardsdatascience.com/) at [this link](https://towardsdatascience.com/underdetermined-least-squares-feea1ac16a9).
+>
+>  Background picture source: [TimHill](https://pixabay.com/de/users/timhill-5727184/) on [Pixabay](https://pixabay.com/)

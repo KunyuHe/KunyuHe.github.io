@@ -1,15 +1,15 @@
 ---
 layout:     post
 title:      "SVD in Machine Learning: Ridge Regression and Multicollinearity"
-subtitle:   "Understand how SVD derives a consistent expression for least-square weights"
+subtitle:   "Understand multicollinearity and how it compromises least squares, and how ridge regression helps"
 date:       2020-01-11
 author:     "Kunyu He"
 header-img: "img/post-bg-svdridge.jpg"
 catalog:    true
 mathjax:    true
 tags:
-    - Machine Learning
-    - Statistics
+    - Machine Learning Explained
+    - Least Squares
     - Python Applied
 ---
 
@@ -135,3 +135,5 @@ We can see that least squares weights differ greatly from ridge regression weigh
 ---
 
 > This blog was originally published on [@Medium](https://medium.com/) with [@Towards Data Science](https://towardsdatascience.com/) at [this link](https://towardsdatascience.com/ridge-regression-and-multicollinearity-d8a3e06efce8).
+>
+> Background picture source: [klausdie](https://pixabay.com/zh/users/klausdie-1197817/) on [Pixabay](https://pixabay.com/)
