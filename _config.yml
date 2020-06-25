@@ -97,7 +97,12 @@ service-worker: true
 
 
 # MathJax rendering for layout:page (e.g. post preview)
-page-mathjax: false
+page-mathjax: true
+
+
+
+# Include GitHub Calendar
+github-calendar: true
 
 
 
