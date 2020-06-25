@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "SVD in Machine Learning: PCA"
+title:      "Principal Component Analysis (PCA)"
 subtitle:   "Understand PCA and how we do it via EVD and SVD, and why the SVD implementation is better"
 date:       2020-02-23
 author:     "Kunyu He"
@@ -8,9 +8,9 @@ header-img: "img/post-bg-svdpca.jpg"
 catalog:    true
 mathjax:    true
 tags:
-    - Machine Learning Explained
+    - Machine Learning
     - PCA
-    - Python Applied
+    - SVD
 ---
 
 This article discusses what is [**principal component analysis**](https://www.wikiwand.com/en/Principal_component_analysis) (PCA), how we do it using [**eigenvalue decomposition**](https://www.wikiwand.com/en/Eigendecomposition_of_a_matrix) (EVD) or [**singular value decomposition**](https://www.wikiwand.com/en/Singular_value_decomposition) (SVD), and why the SVD implementation is better.
@@ -67,7 +67,7 @@ Below is an implementation of PCA through SVD in Python:
 
 ---
 
-# Numerical Experiment: PCA for Unsupervised Learning
+# Numerical Experiment
 
 We will use the [Iris flower dataset](https://www.wikiwand.com/en/Iris_flower_data_set) for an illustration of how PCA works as an unsupervised learning tool to help understand the data.
 

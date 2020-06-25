@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "SVD in Machine Learning: Ridge Regression and Multicollinearity"
+title:      "Multicollinearity and Ridge Regression"
 subtitle:   "Understand multicollinearity and how it compromises least squares, and how ridge regression helps"
 date:       2020-01-11
 author:     "Kunyu He"
@@ -8,9 +8,10 @@ header-img: "img/post-bg-svdridge.jpg"
 catalog:    true
 mathjax:    true
 tags:
-    - Machine Learning Explained
-    - Least Squares
-    - Python Applied
+    - Machine Learning
+    - Linear Regression
+    - Regularization
+    - SVD
 ---
 
 This article discusses what is multicollinearity, how can it compromise least squares, and how ridge regression helps avoid that from a perspective of [**singular value decomposition**](https://www.wikiwand.com/en/Singular_value_decomposition) (SVD). It is heavily based on Professor [Rebecca Willet](https://voices.uchicago.edu/willett/)’s course [Mathematical Foundations of Machine Learning](https://voices.uchicago.edu/willett/teaching/fall-2019-mathematical-foundations-of-machine-learning/) and it assumes basic knowledge of linear algebra.
@@ -27,7 +28,7 @@ Multicollinearity matters not only theoretically, but also for the practice. The
 
 # Singular Value Decomposition
 
-This section provides a basic introduction to SVD. Consider a matrix $X$ of shape $n \times p$. There always exists matrices $U$, $\Sigma$, $V$ such that $X=U_{n \times n} \Sigma_{n \times p} V_{p \times p}^{T}$. Where both $U$ and $V$ are orthogonal ($U^{T} U=U U^{T}=I$, and $V^{T} V=V V^{T}=I$), and $Σ$ is diagonal.
+This section provides a basic introduction to SVD. Consider a matrix $X$ of shape $n \times p$. There always exists matrices $U$, $\Sigma$, $V$ such that $X=U_{n \times n} \Sigma_{n \times p} V_{p \times p}^{T}$. Both $U$ and $V$ are orthogonal ($U^{T} U=U U^{T}=I$, and $V^{T} V=V V^{T}=I$), and $Σ$ is diagonal.
 
 The columns of $U$ are the left singular vectors, they form an orthonormal basis for the columns of $X$. The diagonal elements of $Σ$ are called singular values $\sigma_{1} \geq \sigma_{2} \geq \ldots \geq \sigma_{p} \ge 0$. The number of non-zero singular values is the rank of the matrix $X$, and the columns of *Σ* are the basis for the rows of $X$. The rows of $V$ are called the right singular vectors, they are the basis coefficients on the columns of $UΣ$ to represent each column of $X$.
 

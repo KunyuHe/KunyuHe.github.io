@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Estimate Population Variance: should we divide by (n - 1) or n"
+title:      "Estimate Population Variance: should we divide by n - 1 or n"
 subtitle:   "Understand why we use (n − 1) in sample variance, and why dividing by n still gives us a good estimator"
 date:       2020-04-19
 author:     "Kunyu He"
