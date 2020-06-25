@@ -8,5 +8,5 @@
 
 我热衷于将编程与量化技能应用到金融领域，并通过实习积累了实践经验。我曾在[中信证券](http://www.cs.ecitic.com/newsite/)的股权衍生品业务线做量化开发实习，并在[中信建投证券](http://file.csc108.com/)的股权衍生品交易部做量化分析实习。此前，我受雇于领盛投资管理（[LaSalle Investment Management](https://www.wikiwand.com/en/LaSalle_Investment_Management)），担任策略与研究部门的数据科学实习生。
 
-业余时间，我喜欢追踪英雄联盟职业联赛（LPL）和一级方程式赛车的动态。最近常玩的游戏是[黎明杀机]([https://www.wikiwand.com/zh/%E9%BB%8E%E6%98%8E%E6%9D%80%E6%9C%BA_(%E6%B8%B8%E6%88%8F)](https://www.wikiwand.com/zh/黎明杀机_(游戏))，[怪物猎人：世界]([https://www.wikiwand.com/zh/%E6%80%AA%E7%89%A9%E7%8C%8E%E4%BA%BA_%E4%B8%96%E7%95%8C](https://www.wikiwand.com/zh/怪物猎人_世界))和[杀手2：沉默刺客]([https://www.wikiwand.com/zh-hans/%E6%9D%80%E6%89%8B2%EF%BC%9A%E6%B2%89%E9%BB%98%E5%88%BA%E5%AE%A2](https://www.wikiwand.com/zh-hans/杀手2：沉默刺客))。至于电视剧，我特别喜欢[广告狂人]([https://www.wikiwand.com/zh/%E5%B9%BF%E5%91%8A%E7%8B%82%E4%BA%BA](https://www.wikiwand.com/zh/广告狂人))和[绝命毒师]([https://www.wikiwand.com/zh/%E7%B5%95%E5%91%BD%E6%AF%92%E5%B8%AB](https://www.wikiwand.com/zh/絕命毒師))。我也很喜欢唱歌，擅长民谣和流行。本科期间，我曾多次登台演唱。
+业余时间，我喜欢追踪英雄联盟职业联赛（LPL）和一级方程式赛车的动态。最近常玩的游戏是[黎明杀机](https://www.wikiwand.com/zh/黎明杀机_(游戏))，[怪物猎人：世界](https://www.wikiwand.com/zh/怪物猎人_世界))和[杀手2：沉默刺客](https://www.wikiwand.com/zh-hans/杀手2：沉默刺客)。至于电视剧，我特别喜欢[广告狂人](https://www.wikiwand.com/zh/广告狂人)和[绝命毒师](https://www.wikiwand.com/zh/絕命毒師)。我也很喜欢唱歌，擅长民谣和流行。本科期间，我曾多次登台演唱。
 
