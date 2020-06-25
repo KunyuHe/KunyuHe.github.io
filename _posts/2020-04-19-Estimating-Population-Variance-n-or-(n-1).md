@@ -37,7 +37,7 @@ Suppose we have a sample $X_{n\times p}=\begin{bmatrix}x_1, x_2, \dots, x_p\end{
 
 # **Evaluating Estimators: Bias, Variance, and MSE**
 
-We will first introduce some metrics to evaluate these estimators, namely, **bias**, **variance**, and MSE. Assuming we are estimating population parameter $\theta$ and our estimator $\hat{\theta}$ is a function of data: $\hat{\theta}=\hat{\theta}\left(\{x_i\}_{i=1}^n\right)_{p\times 1}$, and error $\epsilon(\hat{\theta}):=\hat{\theta}-\theta$. Then we can define:
+We will first introduce some metrics to evaluate these estimators, namely, **bias**, **variance**, and MSE. Assuming we are estimating population parameter $\theta$ and our estimator $\hat{\theta}$ is a function of data: $\hat{\theta}=\hat{\theta}\left(X\right)_{p\times 1}$, and error term $\epsilon\left(\hat{\theta}\right):=\hat{\theta}-\theta$. Then we can define:
 
 \begin{equation}\begin{aligned}
 \operatorname{MSE}(\hat{\theta})&:=\mathbb{E}[\epsilon^T \epsilon]=\mathbb{E}[\sum_{i=1}^p (\hat{\theta_i}-\theta_i)^2] \\\ \operatorname{Bias}(\hat{\theta})&:=\left\Vert\mathbb{E}[\hat{\theta}]-\theta\right\Vert \\\ \operatorname{Variance}(\hat{\theta})&:=\mathbb{E}\left[\left\Vert\hat{\theta}-\mathbb{E}[\hat{\theta}]\right\Vert_{2}^{2}\right] \end{aligned}\end{equation}
