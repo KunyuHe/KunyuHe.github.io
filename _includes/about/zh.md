@@ -6,7 +6,7 @@
 
 我长于概率论与数理统计，机器学习和时间序列分析；擅用Python，R，SQL；略通C++。此外，我熟悉Git，Docker，以及基于AWS的云计算。
 
-我热衷于将编程与量化技能应用到金融领域，并通过实习积累了实践经验。我曾在[中信证券](http://www.cs.ecitic.com/newsite/)的股权衍生品业务线做量化开发实习，并在[中信建投证券](http://file.csc108.com/)的股权衍生品交易部做量化分析实习。此前，我受雇于领盛投资管理（[LaSalle Investment Management](https://www.wikiwand.com/en/LaSalle_Investment_Management)），担任策略与研究部门的数据科学实习生。
+我热衷于将编程与量化技能应用到金融领域，并通过实习积累了实践经验。目前，我在美银美林（[BofA Securities](https://www.wikiwand.com/en/BofA_Securities)）的股权量化策略组做量化分析实习。此前，我在[中信证券](http://www.cs.ecitic.com/newsite/)的股权衍生品业务线做量化开发实习。我也曾受雇于领盛投资管理（[LaSalle Investment Management](https://www.wikiwand.com/en/LaSalle_Investment_Management)），担任策略与研究部门的数据科学实习生。
 
 业余时间，我喜欢追踪英雄联盟职业联赛（LPL）和一级方程式赛车的动态。最近常玩的游戏是[黎明杀机](https://www.wikiwand.com/zh/黎明杀机_(游戏))，[怪物猎人：世界](https://www.wikiwand.com/zh/怪物猎人_世界)和[杀手2：沉默刺客](https://www.wikiwand.com/zh-hans/杀手2：沉默刺客)。至于电视剧，我特别喜欢[广告狂人](https://www.wikiwand.com/zh/广告狂人)和[绝命毒师](https://www.wikiwand.com/zh/絕命毒師)。我也很喜欢唱歌，擅长民谣和流行。本科期间，我曾多次登台演唱。
 
