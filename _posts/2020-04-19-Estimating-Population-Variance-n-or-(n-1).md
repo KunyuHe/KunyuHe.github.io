@@ -52,7 +52,7 @@ In the following sections, we will apply Cochran’s theorem to derive the bias 
 
 Cochran’s theorem is often used to justify the probability distributions of statistics used in the [**analysis of variance**](https://www.wikiwand.com/en/Analysis_of_variance) (ANOVA). We will skip the proof and simply apply it to our case.
 
-Cochran’s theorem shows that the sum of squares of a set of $iid$ random variables that are generated from standard normal has a [**chi-squared distribution**](https://www.wikiwand.com/en/Chi-squared_distribution) with $(n - 1)$ degrees of freedom. In other words, $\frac{(n-1) s^{2}}{\sigma^{2}}=\sum_{i=1}^{n}\left(\frac{x_{i}-\bar{x}}{\sigma}\right)^{2} \stackrel{iid}{\sim} \chi_{n-1}^{2}$. Therefore $\mathbb{E}\left[\frac{(n-1) s^{2}}{\sigma^{2}}\right]=\mathbb{E}\left[\chi_{n-1}^{2}\right]=n-1$ and $\mathbb{E}\left[s^{2}\right]=\sigma^{2}$. We have:
+Cochran’s theorem shows that the sum of squares of a set of $iid$ random variables that are generated from standard normal has a [**chi-squared distribution**](https://www.wikiwand.com/en/Chi-squared_distribution) with $(n - 1)$ degrees of freedom. In other words, $\frac{(n-1) s^{2}}{\sigma^{2}}=\sum_{i=1}^{n}\left(\frac{x_{i}-\bar{x}}{\sigma}\right)^{2} {\sim} \chi_{n-1}^{2}$, where $\frac{x_{i}-\bar{x}}{\sigma} \stackrel{iid}{\sim} N(0, 1)$. Therefore $\mathbb{E}\left[\frac{(n-1) s^{2}}{\sigma^{2}}\right]=\mathbb{E}\left[\chi_{n-1}^{2}\right]=n-1$ and $\mathbb{E}\left[s^{2}\right]=\sigma^{2}$. We have:
 
 \begin{equation}\operatorname{Bias}\left[s^{2}\right]=0\end{equation}
 
